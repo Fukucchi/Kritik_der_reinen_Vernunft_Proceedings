@@ -1,0 +1,2 @@
+# Kritik_der_reinen_Vernunft_Proceedings
+カント読書会で議論された点のメモ。
