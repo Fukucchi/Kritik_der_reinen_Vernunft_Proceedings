@@ -1,0 +1,57 @@
+\documentclass[a4j, 12pt,leqno]{jsarticle}
+\input{preamble2.tex}
+\usepackage{bussproofs}
+\usepackage{amssymb}
+\usepackage{okumacro}
+\usepackage{plext}
+\usepackage{latexsym}
+\usepackage{lscape}
+\usepackage{stackengine} 
+
+
+
+
+% This is the "centered" symbol
+\def\fCenter{{\mbox{\Large$\rightarrow$}}}
+
+% Optional to turn on the short abbreviations
+\EnableBpAbbreviations
+
+% \alwaysRootAtTop  % makes proofs upside down
+% \alwaysRootAtBottom % -- this is the default setting
+\title{カント読書会議事録\thanks{ページづけはPhB版（1998）による。AはAbsatz（段落）の略記。内容は常に不完全にとどまる。ご連絡は以下のアドレスまでお願いいたします。}}
+\author{文責：福地信哉\thanks{e-mail: shinya.express@gmail.com}\\ （東京大学大学院人文社会系研究科修士課程）}
+
+
+\begin{document}
+\maketitle
+
+
+\section*{論点}
+\begin{description}
+\item[S. 111, A. 2]現象と物自体の区別について。解釈。この区別の正当化としては例えば次の道筋が考えられる。まず、世界は私たちによって知られうる事柄と知られえない事柄から成っているという無害な前提を置く。次に、私たちによって知られうる以上、知られうることが私たちの能力の性状から原理的に決定しており、他方知られえない以上、知られえないことが私たちの能力によって原理的に決定しているというステップを踏む。そして前者の事柄は現象に、後者の事柄は物自体に帰せられる。
+\begin{prooftree}
+\AxiomC{$\Diamond kP \lor \lnot \Diamond kP$}
+\AxiomC{[$\Diamond kP$]$^1$}
+\UnaryInfC{$g\Diamond kP $}
+\UnaryInfC{$g\Diamond kP \lor g\lnot \Diamond kP $}
+\AxiomC{[$\lnot\Diamond kP$]$^2$}
+\UnaryInfC{$g\lnot\Diamond kP$}
+\UnaryInfC{$g\Diamond kP \lor g\lnot \Diamond kP $}
+\RightLabel{\scriptsize 1, 2}
+\TrinaryInfC{$g\Diamond kP \lor g\lnot \Diamond kP $}
+\end{prooftree}
+\item[・]診断。「次に」のステップは問題含み。
+
+\end{description}
+\begin{description}
+\item[S. 112, Z. 21ff.]解釈。カントはここでオブジェクトoが超越論的に観念的である（以下TI）ことの一つの基準を、oの存在を認めないタイプの認識者が思考可能であることとし、また時間がそのようなオブジェクトであると主張しているように見える。そうだとして他方、oが超越論的に実在的である（以下TR）ことの基準は何か。自然に考えられるのは、思考可能なあらゆるタイプの認識者によってoが存在するとみなされているということだ。
+\item[・]診断。だがTRのこうした特徴づけは修正を要する。第一に、具体的にどのようなタイプの認識者までが考慮されてoがTRないしTIであると判定されるのかが不明瞭である（思考可能性の問題）。
+\item[・]第二にやや軽微な問題。思考可能なあらゆるタイプの認識者によって存在するとみなされているもの（TRなもの）はそもそもただ一つでも存在するのか。もし存在しないとすれば、TIなものをTRなものから区別することの有意味性が疑われることになる。
+\begin{description}
+\item[・]とは言えその場合でも、「そのような存在しないものを存在すると人々が常識的に信じている（例えば時空について）」という主張としてカントの主張を理解することは依然可能かもしれない。
+\end{description}
+\item[・]そして第三に重要な問題。あらゆるタイプの認識者によって存在するとみなされているオブジェクトのみをTRなものとすると次のことが帰結する。それは世界を捉える能力が極めて高い認識者によって存在すると見なされているoが、その能力が極めて低い認識者がoを存在するとみなさないというだけで、oがTRでないと結論されてしまうことである。
+%\end{description}
+\end{description}
+\end{document}
