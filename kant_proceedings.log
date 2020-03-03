@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2020.2.11)  18 FEB 2020 21:21
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2020.2.11)  4 MAR 2020 00:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -206,6 +206,10 @@ Package: iftex 2019/11/07 v1.0c TeX engine tests
 \Gm@layoutvoffset=\dimen193
 \Gm@dimlist=\toks22
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
 (/usr/local/texlive/2019/texmf-dist/tex/latex/breqn/breqn.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2020-02-08 L3 programming layer (loader) 
@@ -545,15 +549,15 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 6.72699pt on input line 41.
  [1
 
-] [2]
+] [2] [3]
 (./kant_proceedings.aux) ) 
 Here is how much of TeX's memory you used:
- 5110 strings out of 481782
- 68869 string characters out of 5931987
- 336454 words of memory out of 5000000
- 20423 multiletter control sequences out of 15000+600000
+ 5149 strings out of 481782
+ 69525 string characters out of 5931987
+ 337370 words of memory out of 5000000
+ 20458 multiletter control sequences out of 15000+600000
  549386 words of font info for 105 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  42i,11n,42p,856b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on kant_proceedings.dvi (2 pages, 6032 bytes).
+Output written on kant_proceedings.dvi (3 pages, 10736 bytes).
