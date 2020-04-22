@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2020.2.11)  22 APR 2020 11:24
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2020.2.11)  22 APR 2020 16:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -506,14 +506,14 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 89.
- [3] [4] (./kant_proceedings2.aux) ) 
+ [3] [4] [5] (./kant_proceedings2.aux) ) 
 Here is how much of TeX's memory you used:
- 5109 strings out of 481782
- 68880 string characters out of 5931987
+ 5110 strings out of 481782
+ 68902 string characters out of 5931987
  336270 words of memory out of 5000000
- 20425 multiletter control sequences out of 15000+600000
+ 20426 multiletter control sequences out of 15000+600000
  549840 words of font info for 106 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  39i,11n,40p,895b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on kant_proceedings2.dvi (4 pages, 13788 bytes).
+Output written on kant_proceedings2.dvi (5 pages, 17168 bytes).
