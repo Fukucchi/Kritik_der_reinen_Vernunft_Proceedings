@@ -1,10 +1,10 @@
 # Fdb version 3
-["dvipdf"] 1587540821 "kant_proceedings2.dvi" "kant_proceedings2.pdf" "kant_proceedings2" 1587540822
-  "kant_proceedings2.dvi" 1587540821 17168 067ce5473b5ff40c8d62ccdd853cc1bd "latex"
+["dvipdf"] 1589099763 "kant_proceedings2.dvi" "kant_proceedings2.pdf" "kant_proceedings2" 1589099767
+  "kant_proceedings2.dvi" 1589099763 19816 f15890720b504de454d134134cf37dd4 "latex"
   (generated)
   "kant_proceedings2.pdf"
-["latex"] 1587540820 "/Users/shinya/Desktop/krv_proceedings/kant_proceedings2.tex" "kant_proceedings2.dvi" "kant_proceedings2" 1587540822
-  "/Users/shinya/Desktop/krv_proceedings/kant_proceedings2.tex" 1587540819 12501 80ba5d998decefcc4d5e36ffd5f64445 ""
+["latex"] 1589099761 "/Users/shinya/Desktop/krv_proceedings/kant_proceedings2.tex" "kant_proceedings2.dvi" "kant_proceedings2" 1589099767
+  "/Users/shinya/Desktop/krv_proceedings/kant_proceedings2.tex" 1589099759 14392 357f243d1b97f52611c3773061657f82 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1136768653 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm" 1136768653 1536 05df9db6aeccc4eea94fec15c9024f79 ""
@@ -86,8 +86,8 @@
   "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1577314212 39451 6c50cbbc48279cc2d67f72e32ca48ad5 ""
   "/usr/local/texlive/2019/texmf-var/web2c/eptex/platex.fmt" 1581428846 10595275 2cf6c8362e0f8da454eef6a3ad2f8301 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "kant_proceedings2.aux" 1587540821 383 5b606f3c90b065795e9ca1d94d76f254 "latex"
-  "kant_proceedings2.tex" 1587540819 12501 80ba5d998decefcc4d5e36ffd5f64445 ""
+  "kant_proceedings2.aux" 1589099763 511 01e916645e9ab4702bb9fb505ee6bc5c "latex"
+  "kant_proceedings2.tex" 1589099759 14392 357f243d1b97f52611c3773061657f82 ""
   (generated)
   "kant_proceedings2.aux"
   "kant_proceedings2.dvi"
